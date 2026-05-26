@@ -1,0 +1,18 @@
+{
+  "lobby.theme1": {
+    "sounds": [
+      {
+        "name": "celest:music/lobby_theme1",
+        "stream": true
+      }
+    ]
+  },
+  "lobby.theme2": {
+    "sounds": [
+      {
+        "name": "celest:music/lobby_theme2",
+        "stream": true
+      }
+    ]
+  }
+}
