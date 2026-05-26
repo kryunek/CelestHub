@@ -236,3 +236,43 @@ Region-based PvP system with configurable kits
 ### Scoreboard / Tab missing
 - Check feature configs
 - Ensure placeholders/dependencies
+
+## 📸 Screenshots
+
+### Gallery
+
+![image](./images/2026-05-26_20.46.32.png)
+![image](./images/2026-05-26_20.47.23.png)
+![image](./images/2026-05-26_20.47.50.png)
+![image](./images/2026-05-26_20.47.50.png)
+![image](./images/2026-05-26_20.48.07.png)
+![image](./images/2026-05-26_20.48.17.png)
+![image](./images/2026-05-26_20.48.19.png)
+![image](./images/2026-05-26_20.48.20.png)
+![image](./images/2026-05-26_20.48.33.png)
+![image](./images/2026-05-26_20.49.10.png)
+![image](./images/2026-05-26_20.49.20.png)
+![image](./images/2026-05-26_20.49.32.png)
+![image](./images/2026-05-26_20.49.36.png)
+![image](./images/2026-05-26_20.49.43.png)
+![image](./images/2026-05-26_20.50.03.png)
+![image](./images/2026-05-26_20.50.08.png)
+![image](./images/2026-05-26_20.50.14.png)
+![image](./images/2026-05-26_20.50.20.png)
+![image](./images/2026-05-26_20.50.30.png)
+![image](./images/2026-05-26_20.50.35.png)
+![image](./images/2026-05-26_20.50.45.png)
+![image](./images/2026-05-26_20.50.47.png)
+![image](./images/2026-05-26_20.50.52.png)
+![image](./images/2026-05-26_20.51.02.png)
+![image](./images/2026-05-26_20.51.11.png)
+![image](./images/2026-05-26_20.51.14.png)
+![image](./images/2026-05-26_20.51.18.png)
+![image](./images/2026-05-26_20.51.22.png)
+![image](./images/2026-05-26_20.51.24.png)
+![image](./images/2026-05-26_20.51.32.png)
+![image](./images/2026-05-26_20.51.39.png)
+![image](./images/2026-05-26_20.51.42.png)
+![image](./images/2026-05-26_20.52.07.png)
+![image](./images/2026-05-26_20.52.36.png)
+
