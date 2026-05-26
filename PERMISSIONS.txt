@@ -1,0 +1,52 @@
+Celest Plugin Permissions
+=========================
+
+Command permissions
+-------------------
+celest.command.chat
+celest.command.chat.clear
+celest.command.chat.mute
+celest.command.chat.unmute
+celest.command.chat.pause
+celest.command.chat.slow
+celest.command.editor
+celest.command.editor.chat
+celest.command.editor.hotbar
+celest.command.debug
+celest.command.reload
+celest.command.buildmode
+celest.command.outfit.manager
+celest.command.trailparticles.manager
+celest.command.queue.pause
+celest.command.setspawn
+celest.command.timer.create
+celest.command.timer.remove
+celest.command.fly
+
+Chat bypass permissions
+-----------------------
+celest.chat.bypass.pause
+celest.chat.bypass.mute
+celest.chat.bypass.slow
+
+Cosmetics permissions
+---------------------
+celest.cosmetics.outfit.*
+celest.cosmetics.outfit.<outfit_name>
+celest.cosmetics.trail.*
+celest.cosmetics.trail.<trail_name>
+
+Gadget permissions
+------------------
+celest.gadget.*
+celest.gadget.snowball_velocity
+celest.gadget.enderbutt_rideable
+celest.gadget.grappling_hook
+celest.gadget.leap_boost
+celest.gadget.rainbow_trail
+celest.gadget.firework_dash
+
+Notes
+-----
+- Outfit and trail dynamic permissions are generated from their configured names.
+- Gadget permissions are currently defined in menus/gadgets_menu.yml under each item key.
