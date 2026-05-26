@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Celest:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Celest_jar</output-path>
+    <root id="archive" name="Celest.jar">
+      <element id="module-output" name="Celest" />
+    </root>
+  </artifact>
+</component>
